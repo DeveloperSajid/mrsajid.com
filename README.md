@@ -32,7 +32,7 @@ git push
 
 # git clone Repositories
 ```shell
-git clone git@Dgithub.com:DeveloperSajid/mrsajid.com.git
+git clone git@github.com:DeveloperSajid/mrsajid.com.git
 ```
 # Add Remote URL
 ```shell
